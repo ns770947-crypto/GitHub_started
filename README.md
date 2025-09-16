@@ -1,2 +1,4 @@
 # GitHub_started
-MY first GitHub Repository
+
+This is my first GitHub repository!  
+Maintained by [Neeraj Singh].
